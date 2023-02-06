@@ -1,4 +1,6 @@
 # voidSevenSevenSix-s-BigIdeasMath-Unlimited-checks
 Infinite checks in Big Ideas Math (technically 10000 checks but who's counting)
 
-This is already in Bookmarklet format.
+
+Go to this page to learn how: https://docs.google.com/document/d/1fj_r06niiCG6rqDxOo9QsdX_rSFw_qpqiKgw1NWGhY0/edit
+
